@@ -4,7 +4,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="54">
+          <list size="58">
             <item index="0" class="java.lang.String" itemvalue="traitlets" />
             <item index="1" class="java.lang.String" itemvalue="bs4" />
             <item index="2" class="java.lang.String" itemvalue="blessings" />
@@ -59,6 +59,10 @@
             <item index="51" class="java.lang.String" itemvalue="pathlib2" />
             <item index="52" class="java.lang.String" itemvalue="chardet" />
             <item index="53" class="java.lang.String" itemvalue="Twisted" />
+            <item index="54" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="55" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="56" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="57" class="java.lang.String" itemvalue="Jinja2" />
           </list>
         </value>
       </option>
